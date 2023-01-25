@@ -1,4 +1,4 @@
-# Multibit Classic 0.5.18 download for Windows/Linux/MacOS
+# Multibit Classic 0.5.19 download for Windows/Linux/MacOS
 
 ![image](https://user-images.githubusercontent.com/98798729/214574880-084dbc5e-544a-47eb-b72c-25a0cc3eaad7.png)
 
