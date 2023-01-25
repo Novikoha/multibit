@@ -1,6 +1,6 @@
-# Multibit HD 
+# Multibit Classic 
 
-![image](https://user-images.githubusercontent.com/98798729/214574520-19588d16-0349-45c6-8524-e8612774d188.png)
+![image](https://user-images.githubusercontent.com/98798729/214574880-084dbc5e-544a-47eb-b72c-25a0cc3eaad7.png)
 
 Wednesday, July 26, 2017
 
