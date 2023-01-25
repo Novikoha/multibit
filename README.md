@@ -1,4 +1,6 @@
-# Multibit is Deprecated - Do Not Use
+# Multibit HD 
+
+![image](https://user-images.githubusercontent.com/98798729/214574520-19588d16-0349-45c6-8524-e8612774d188.png)
 
 Wednesday, July 26, 2017
 
