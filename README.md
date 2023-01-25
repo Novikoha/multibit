@@ -24,4 +24,44 @@ Rowe also says that when MultiBit came into the scene in July 2011, there were v
 
 Rowe notes that when MultiBit started, the June 2011 Mt. Gox incident was still fresh in many Bitcoin owners’ minds. Mt. Gox was a popular Bitcoin exchange. In June 2011, VentureBeat.com reported that Mt. Gox had admitted that its servers had been hacked. Mt.Gox made the announcement after the price of Bitcoin had fallen from around $17.50 to almost nothing within minutes. 
 
+The Service 
+To understand the service provided by MultiBit, let’s start by recapping what a Bitcoin wallet is. 
+
+A Bitcoin wallet is a software program that provides Bitcoin owners with a secure way to store the private keys that control their Bitcoin. There are various types of Bitcoin wallets, including web-based, mobile, desktop, and hardware wallets. 
+
+## The developers of the MultiBit wallet claimed that their service provided the following features: 
+
++ Simplicity: Users could easily and quickly install the wallet across major operating systems such as MacOS, Windows, and Linux. 
++ Security: Encrypted private keys protected balances on the local machines or USB sticks.
++ Lightweight footprint: The stored data did not require much space on the device. 
++ Flexibility: MultiBit users could create separate accounts within their wallet. 
++ International: Users could access the wallet in over 35 languages. 
++ Faster synchronizing: MultiBit promised to synchronize transactions with the Bitcoin ledger within a matter of minutes.  
++ MultiBit.org provided a link to download the wallet, and promised that users begin to use their wallets within 5 minutes. 
+
+The Service 
+To understand the service provided by MultiBit, let’s start by recapping what a Bitcoin wallet is. 
+
+A Bitcoin wallet is a software program that provides Bitcoin owners with a secure way to store the private keys that control their Bitcoin. There are various types of Bitcoin wallets, including web-based, mobile, desktop, and hardware wallets. 
+
+The developers of the MultiBit wallet claimed that their service provided the following features: 
+
+Simplicity: Users could easily and quickly install the wallet across major operating systems such as MacOS, Windows, and Linux. 
+Security: Encrypted private keys protected balances on the local machines or USB sticks.
+Lightweight footprint: The stored data did not require much space on the device. 
+Flexibility: MultiBit users could create separate accounts within their wallet. 
+International: Users could access the wallet in over 35 languages. 
+Faster synchronizing: MultiBit promised to synchronize transactions with the Bitcoin ledger within a matter of minutes.  
+MultiBit.org provided a link to download the wallet, and promised that users begin to use their wallets within 5 minutes. 
+
+## Reaching 1.5 Million Downloads 
+In March 2014, the MultiBit.org blog announced that the wallet had reached 1,517,200 downloads since its inception. In the first 20 months, the number of downloads moved from several hundred in a month to a few thousand. 
+
+Starting from around April 2013, the number of downloads grew exponentially. They reached a peak in November 2013 when users downloaded the wallet 330,000 times. This explosion corresponded with the Bitcoin booms experienced between April and November 2013.      
+
+A 2014 article published by Coindesk.com suggested that at more than 1.5 million, MultiBit had “shifted significantly more wallets than Blockchain.info and Coinbase.” The two services had each passed the one-million wallet mark. 
+
+If the number of MultiBit downloads was impressive, it is because the service introduced ongoing improvements. For instance, the MultiBit.org blog lists 11 updates. 
+
+In an article published by Coindesk.com, Danny Bradbury calls MultiBit “one of the unsung heroes of the Bitcoin world.”
 
